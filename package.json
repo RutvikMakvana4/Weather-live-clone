@@ -4,7 +4,8 @@
   "description": "creating a weather app in nodejs using the open weathermap api",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "author": "rutvik makvana",
   "license": "ISC",
