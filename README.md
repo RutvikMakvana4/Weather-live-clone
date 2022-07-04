@@ -1,5 +1,3 @@
-# Weather-live-clone
- link : https://weather-live-clone.herokuapp.com/
  
  # basic Overview
  A simple weather live clone to show the weather forecast of your city.The weather live clone supports global locations and has customizable Live Tile support. It is a nice option for the times you just need to check in on the weather to plan for your week ahead, your weekend plans or any other times when the weather could play a factor.
